@@ -1,0 +1,56 @@
+
+Descreva a camada Front-end da aplicação no Desenvolvimento Web?
+
+front-end é o primeiro contato do usuario a um site ou um aplicativo.
+ontato visual.
+o font end tambem é dividido em camadas.
+- estruturação ou marcação, normalmeente feito em html.
+- estilização, definição de fontes, cores, e atributos pertinentes, Normalmente feito em css
+- Estruturação, atributos especificos, objetos especificos ao abrir uma pagina web. Normalmente,  feito em JavaScript.
+
+Descreva a Camada Back-end da aplicação no Desenvolvimento Web?
+
+Responsavel pela execução de comandos juntamente com o servidor.
+O back-end tem a função de buscar informações juntamente com outros servidores e trazer a informação para o cliente.
+São usados linguagens especificas no Back-end Phyton, Java Script,PHP, Asp.
+
+Diferencie a Camada Front-end da Camada Back-end?
+ 
+Front-end front-end é o primeiro contato do usuario a um site ou um aplicativo.
+
+Back-end Responsavel pela execução de comandos juntamente com o servidor.
+
+O que é protocolo HTTP?
+
+Protocolo HTTP é Protocolo de de transferencia de Hipertexto. Estrutura da informação, é o que é quando solicitada ao servidor, e quando a resposta volta.
+
+Descreva o Protocolo HTTPS ? 
+
+Protocolo HTTPs é o Protocolo de transferencia de hipertexto seguro. ele é basicamente a mesma coisa que o HTTP, porém é utilizado quando precisa acessar paginas criptografadas. Portanto definido como mais seguro, receberá informações mais seguras do servidor. 
+
+Qual é a principal diferença entre os Protocolos HTTP e HTTPS?
+
+HTTP nao consegue acessar paginas web em seu servidor que seja criptografado.
+HTTPS já consegue acessar paginas web criptografadas.
+
+O que é uma HTTP Request (Requisição HTTP)?
+
+Request é quando voce solicita algo do servidor, eu digito um site e solicito um retorno do servidor com a pagina web.
+
+O que é uma HTTP Response (Resposta HTTP)?
+
+É a resposta do servidor com a pagina web solicitada.
+
+Quais são os tipos de Requisições HTTP (Verbos), mais utilizados no Desenvolvimento WEB?
+
+GET - Usado para coletar informações
+POST - Usado para colocar informações
+PUT - Usado para substituir informações
+DELETE - USado para deletar informações.
+
+Quais são os tipos de Respostas HTTP (Status code), mais utilizados no Desenvolvimento WEB?
+
+Codigos de erros de Clliete 400 a 499 
+Erros de servidor 500 a 599
+
+
